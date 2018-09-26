@@ -1,0 +1,41 @@
+[2006-93]
+Nome=2006_93 Branches
+Tipo=Branches
+Gerador=C:\Projetos\Geradores\2006 Branches.bat
+DirSaida=C:\Projetos\Saida\2006
+ArqPrincipal=BM ServerIBX.exe
+
+[2006-98]
+Nome=2006_98 Branches
+Tipo=Branches
+Gerador=C:\Projetos\Geradores\2006_98 Branches.bat
+DirSaida=C:\Projetos\Saida\2006_98
+ArqPrincipal=BM ServerIBX.exe
+
+[2009]
+Nome=2009 Branches
+Tipo=Branches
+Gerador=C:\Projetos\Geradores\2009 Branches.bat
+DirSaida=C:\Projetos\Saida\2009
+ArqPrincipal=BM ServerIBX.exe
+
+[C2009]
+Nome=2009 Congelada
+Tipo=Congelada
+Gerador=C:\Projetos\Geradores\2009 Congelada.bat
+DirSaida=C:\Projetos\Saida\2009
+ArqPrincipal=BM ServerIBX.exe
+
+[2010]
+Nome=2010 Branches
+Tipo=Branches
+Gerador=C:\Projetos\Geradores\2010 Branches.bat
+DirSaida=C:\Projetos\Saida\2010
+ArqPrincipal=BM ServerIBX.exe
+
+[5]
+Nome=5 Branches
+Tipo=Branches
+Gerador=C:\Projetos\Geradores\5 Branches.bat
+DirSaida=C:\Projetos\Saida\5
+ArqPrincipal=BM ServerIBX.exe
